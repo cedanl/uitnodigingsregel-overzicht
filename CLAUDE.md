@@ -1,0 +1,24 @@
+# Uitnodigingsregel-overzicht
+
+Projectrepo van CEDA/Npuls. Bevat alleen documentatie: alles over de Uitnodigingsregel op één plek, met verwijzingen naar de toolkit en de drie tools. Geen code, behalve het script dat de datastroom maakt.
+
+## Inhoud
+
+- `README.md`: dé pagina over de Uitnodigingsregel, voor instellingen, collega's en partners. Primaire interface.
+- `docs/data-en-bronnen.md`: welke gegevens nodig zijn, hoe je ze klaarzet en waar je meer leest over de methode.
+- `docs/richting.md`: wat de pilots leerden en drie richtingen, elk met Nu en Volgende stap. In de README alleen de drie richtingen in één regel elk.
+- `assets/logo-uitnodigingsregel.png`: het logo. Bron: `references/logo-uitnodigingsregel.png` in `cedanl/Uitnodigingsregel`.
+- `assets/datastroom.svg`: de datastroom. Nooit met de hand aanpassen; gebruik de skill `update-datastroom` (`.claude/skills/update-datastroom/`).
+- `docs/specs/`: beslis-samenvattingen.
+
+## Afspraken
+
+- De README is een complete productpagina: wat de Uitnodigingsregel is, wat er is (toolkit, tools, ondersteuning) en hoe een instelling begint. Geen overzicht van de techniek; de tools zijn één onderdeel van het aanbod.
+- Noem geen partnerorganisaties als afzender of eigenaar. De toolkit heet "de toolkit", de pilots zijn "pilots bij mbo-instellingen". Links naar hun materiaal mogen.
+- Nederlands. Schrijf voor lezers zonder technische voorkennis: bondig, direct, geen verkooppraat.
+- Link naar de README's en docs van de drie tools; kopieer er niets uit. Houd de tooltabel, de datastroom en `docs/data-en-bronnen.md` gelijk met die repo's.
+- Huisstijl: Npuls. Alleen kleurcombinaties uit de huisstijl, General Sans met Arial als terugval, zwarte lijnen. Geen Npuls-logo op de pagina.
+- Presentaties staan in `cedanl/clidev-presentaties/exports/`. Link ernaartoe; zet geen PDF's in deze repo.
+- Ondersteuning noemen zoals CEDA die aanbiedt in de presentaties. Geen toezeggingen die daar niet staan.
+- Noem alleen wat aantoonbaar werkt. Wat nog niet getoetst is, krijgt die vermelding in `docs/richting.md`, niet in de README.
+- De README blijft op hoofdlijnen: geen details, voorbehouden, privacy- of juridische kanttekeningen. Open punten horen in issues.
