@@ -38,7 +38,7 @@ Per stap meer uitleg: [Van data tot gesprek](https://cedanl.github.io/Uitnodigin
 
 ### Toolkit
 
-Documenten voor de invoering, gebaseerd op de ervaringen uit de pilots, en een e-learningmodule. Alle documenten staan in de [Toolkit Uitnodigingsregel](https://datagedrevenonderzoekmbo.nl/toolkit-uitnodigingsregel/).
+Documenten voor de invoering, gebaseerd op de ervaringen uit de pilots, en een e-learningmodule. Alle documenten staan in de [Toolkit Uitnodigingsregel](https://datagedrevenonderzoekmbo.nl/toolkit-uitnodigingsregel/), ontwikkeld binnen de [Datacoalitie Datagedreven Onderzoek](https://datagedrevenonderzoekmbo.nl/).
 
 | Fase | Documenten |
 |---|---|

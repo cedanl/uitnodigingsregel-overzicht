@@ -17,7 +17,7 @@ Projectrepo van CEDA/Npuls. Bevat alleen documentatie: alles over de Uitnodiging
 ## Afspraken
 
 - De README is een complete productpagina: wat de Uitnodigingsregel is, wat er is (toolkit, tools, ondersteuning) en hoe een instelling begint. Geen overzicht van de techniek; de tools zijn één onderdeel van het aanbod.
-- Noem geen partnerorganisaties als afzender of eigenaar. De toolkit heet "de toolkit", de pilots zijn "pilots bij mbo-instellingen". Links naar hun materiaal mogen.
+- Noem geen partnerorganisaties als afzender of eigenaar. Uitzondering: bij de toolkit staat dat die is ontwikkeld binnen de Datacoalitie Datagedreven Onderzoek, met link naar hun site. De pilots zijn "pilots bij mbo-instellingen".
 - Nederlands. Schrijf voor lezers zonder technische voorkennis: bondig, direct, geen verkooppraat.
 - Link naar de README's en docs van de drie tools; kopieer er niets uit. Houd de tooltabel, de datastroom en `docs/data-en-bronnen.md` gelijk met die repo's.
 - Huisstijl: Npuls. Alleen kleurcombinaties uit de huisstijl, General Sans met Arial als terugval, zwarte lijnen. Geen Npuls-logo op de pagina.
