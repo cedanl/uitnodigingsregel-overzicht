@@ -4,7 +4,7 @@ Terug naar de [projectpagina](../README.md).
 
 ## Welke gegevens nodig zijn
 
-De tools gebruiken alleen gegevens van de instelling zelf, uit het studentinformatiesysteem. Er komen geen gegevens van buiten bij.
+De tools gebruiken alleen gegevens van de instelling zelf, uit het studentinformatiesysteem. Er komen nu geen gegevens van buiten bij. Of generieke gegevens het model beter maken, onderzoeken we: zie [Waar we heen willen](richting.md).
 
 | Groep | Voorbeelden |
 |---|---|

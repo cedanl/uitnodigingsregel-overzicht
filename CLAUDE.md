@@ -1,14 +1,16 @@
 # Uitnodigingsregel-overzicht
 
-Projectrepo van CEDA/Npuls. Bevat alleen documentatie: alles over de Uitnodigingsregel op één plek, met verwijzingen naar de toolkit en de drie tools. Geen code, behalve het script dat de datastroom maakt.
+Projectrepo van CEDA/Npuls. Bevat alleen documentatie: alles over de Uitnodigingsregel op één plek, met verwijzingen naar de toolkit en de drie tools. Geen code, behalve de scripts die de twee plaatjes maken.
 
 ## Inhoud
 
 - `README.md`: dé pagina over de Uitnodigingsregel, voor instellingen, collega's en partners. Primaire interface.
 - `docs/data-en-bronnen.md`: welke gegevens nodig zijn, hoe je ze klaarzet en waar je meer leest over de methode.
-- `docs/richting.md`: wat de pilots leerden en drie richtingen, elk met Nu en Volgende stap. In de README alleen de drie richtingen in één regel elk.
+- `docs/richting.md`: wat de pilots leerden en drie routes (mbo, hbo en wo, online demo) als leesbaar verhaal. In de README alleen de drie routes in één regel elk.
 - `assets/logo-uitnodigingsregel.png`: het logo. Bron: `references/logo-uitnodigingsregel.png` in `cedanl/Uitnodigingsregel`.
-- `assets/datastroom.svg`: de datastroom. Nooit met de hand aanpassen; gebruik de skill `update-datastroom` (`.claude/skills/update-datastroom/`).
+- `assets/datastroom.svg`: de datastroom van gegevens tot gesprek, op één rij.
+- `assets/aanbod.svg`: het overzicht "Wat er inmiddels ligt" met zes kaarten.
+- Beide SVG's nooit met de hand aanpassen; gebruik de skill `update-datastroom` (`.claude/skills/update-datastroom/`).
 - `docs/specs/`: beslis-samenvattingen.
 
 ## Afspraken

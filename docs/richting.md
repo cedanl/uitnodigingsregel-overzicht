@@ -11,13 +11,22 @@ De techniek is geen drempel meer: een instelling installeert de app en draait he
 - **Interventies vastleggen.** Zonder eenduidige registratie van wat er na een signaal gebeurde, is het effect op uitval moeilijk te meten.
 - **Datakwaliteit.** Gegevens over eerdere jaren zijn niet altijd volledig of bruikbaar.
 
-## Drie richtingen
+## Route mbo: van pilot naar programma
 
-**1. Meer instellingen aan de slag, en het effect meten.** Instellingen draaien de methode zelf. Wie wil, krijgt hulp bij de start.
-*Nu:* twee pilots zijn afgerond, een derde loopt. Het aanbod van twee dagen op locatie staat. Het effect op uitval is pas na afloop van een studiejaar te meten. *Volgende stap:* de volgende pilot begeleiden, het effect onderzoeken vanuit de ervaring van begeleiders, en benchmarkuitkomsten van instellingen verzamelen in het [gezamenlijke overzicht](https://cedanl.github.io/uitnodigingsregel-benchmark/).
+In het mbo is de Uitnodigingsregel het verst. De methode is onderzocht, er liepen pilots en de app staat klaar. De volgende stap is dat meer instellingen ermee werken en dat de lijst een vast onderdeel wordt van de studentbegeleiding.
 
-**2. Het model verbeteren met nieuwe gegevens.** Het model gebruikt nu gegevens die elke instelling makkelijk heeft: aanmelding, vooropleiding, verzuim en een paar persoonskenmerken.
-*Nu:* de benchmark meet per gegeven hoeveel het bijdraagt aan de voorspelling. *Volgende stap:* nagaan welke gegevens in andere systemen zitten, of uit het verloop van aanmelding, onderwijs en begeleiding te halen zijn. Daarbij een advies over wat instellingen nu moeten gaan vastleggen en hoe ze bestaande gegevens bewaren voor onderzoek.
+**Meer instellingen.** Samen met de MBO Raad willen we vijf extra mbo-instellingen laten starten. Zij krijgen dezelfde ondersteuning als de pilotinstellingen: een informatiesessie, hulp bij de data en twee dagen op locatie. Elke instelling meet het effect op dezelfde manier, zodat de uitkomsten bij elkaar opgeteld kunnen worden. Benchmarkuitkomsten komen in het [gezamenlijke overzicht](https://cedanl.github.io/uitnodigingsregel-benchmark/).
 
-**3. De methode verkennen voor hbo en wo.** Ook in hbo en wo willen instellingen studenten met een risico op uitval eerder spreken.
-*Nu:* verkennend, nog niet getoetst. *Volgende stap:* met enkele hogescholen en universiteiten nagaan welke gegevens daar beschikbaar zijn en of een bestaande startmeting als invoer kan dienen.
+**Van pilot naar programma.** Een pilot loopt een jaar en stopt dan. Het effect op uitval wordt pas goed zichtbaar als begeleiders meerdere jaren met de lijst werken. Daarom willen we de Uitnodigingsregel onderbrengen in een vast programma. Een mogelijke weg is een verplichte route voor opleidingen met veel uitval: die werken dan standaard met een ranglijst aan het begin van het jaar. De Uitnodigingsregel is opgenomen in een boek dat de basis vormt voor een advies aan het ministerie van OCW. Wat de pilots leerden, hoort in dat programma: lijsten op tijd, ruimte voor gesprekken en een vaste registratie van wat er na een signaal gebeurt.
+
+**Experimenteren met generieke data.** Het model gebruikt nu gegevens uit het eigen studentinformatiesysteem. Elke instelling zet die zelf klaar en niet elke instelling legt ze op dezelfde manier vast. We onderzoeken of generieke gegevens, die voor alle instellingen op dezelfde manier beschikbaar zijn, ook een bruikbare ranglijst opleveren. Lukt dat, dan is beginnen eenvoudiger en zijn uitkomsten tussen instellingen beter te vergelijken. De benchmark meet al per gegeven hoeveel het bijdraagt aan de voorspelling. Daaruit volgt ook een advies over wat instellingen nu moeten gaan vastleggen.
+
+## Route hbo en wo: samen met de Startthermometer
+
+Ook hogescholen en universiteiten willen studenten met een risico op uitval eerder spreken. Daar wordt al de Startthermometer gebruikt: een gevalideerde vragenlijst die eerstejaars bij de start invullen, met een dashboard voor opleidingen. In plaats van een eigen traject daarnaast te beginnen, zoeken we de combinatie.
+
+Het idee is generieke gegevens uit 1CijferHO, het bestand van DUO met inschrijvingen, vooropleidingen en diploma's, aan te vullen met de antwoorden uit de Startthermometer. Mogelijk is dat genoeg voor een bruikbare ranglijst, zonder dat een instelling eerst veel eigen gegevens moet klaarzetten. Dat is nog niet getoetst. De volgende stap is met enkele hogescholen en universiteiten die de Startthermometer gebruiken nagaan welke gegevens er zijn en of het model daarop goed genoeg voorspelt.
+
+## Een online demo voor begeleiders
+
+De Uitnodigingsregel werkt alleen als begeleiders de lijst begrijpen en vertrouwen. Nu maken de meeste SLB'ers en mentoren er pas kennis mee als hun instelling een pilot start. Daarom willen we een online demo: de app met demodata, te openen in de browser, zonder installatie en zonder echte studentgegevens. Zo ziet een begeleider hoe een ranglijst en een rapport eruitzien en hoe die tot een gesprek leiden, ook als de eigen instelling nog niet meedoet. Dat helpt ook bij het draagvlak als een instelling wil beginnen.

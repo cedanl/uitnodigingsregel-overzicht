@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="assets/logo-uitnodigingsregel.png" alt="Logo van de Uitnodigingsregel: een envelop met een uitnodiging naast een grafiek met een signaal" width="120">
-</p>
+<img src="assets/logo-uitnodigingsregel.png" alt="Logo van de Uitnodigingsregel: een envelop met een uitnodiging naast een grafiek met een signaal" width="80" align="right">
 
-<h1 align="center">De Uitnodigingsregel</h1>
+# De Uitnodigingsregel
 
-<p align="center"><em>Van data tot gesprek</em></p>
+*Van data tot gesprek*
 
 Een deel van de mbo-studenten valt in het eerste jaar uit. Begeleiders willen die studenten op tijd spreken, maar kunnen niet iedereen tegelijk zien. De Uitnodigingsregel helpt bepalen met wie ze als eerste in gesprek gaan.
 
@@ -14,33 +12,35 @@ De Uitnodigingsregel maakt een ranglijst van studenten, op volgorde van het risi
 
 SLB'ers en mentoren nodigen studenten uit vanaf de bovenkant van de lijst. Vandaar de naam. De lijst is een signaal, geen oordeel: de begeleider beslist met wie en waarover het gesprek gaat.
 
-De methode komt uit het promotieonderzoek van Irene Eegdeman (ROC TOP). Zes instellingen hebben haar herhaald op eigen data, daarna volgden praktijkpilots bij mbo-instellingen. Nu is er een app die een instelling zelf installeert en draait.
+De methode komt uit het [promotieonderzoek van Irene Eegdeman](https://research.vu.nl/en/publications/enhancing-study-success-in-dutch-vocational-education) (ROC TOP). Zes instellingen hebben haar herhaald op eigen data, daarna volgden [praktijkpilots](https://datagedrevenonderzoekmbo.nl/themas/uitnodigingsregel/evaluatie-van-de-eerste-praktijkpilot-voor-de-uitnodigingsregel/) bij mbo-instellingen. Nu is er een [app](https://github.com/cedanl/Uitnodigingsregel) die een instelling zelf installeert en draait.
 
 ## Van data tot gesprek
 
 <p align="center">
-  <img src="assets/datastroom.svg" alt="Datastroom. Bovenaan de toolkit met drie fasen: voorbereiden, uitvoeren, evalueren en opschalen. Daaronder: eigen gegevens (aanmelding, vooropleiding, verzuim, demografie; eerdere en huidig cohort) gaan naar Rekenen (voorbereiden, rangschikken, kwaliteit meten met student-signal). Van daar naar de ranglijst met rapport in de app en dan naar het gesprek, waarin een SLB'er of mentor eerst de bovenkant van de lijst uitnodigt. Rekenen gaat ook naar de benchmark, die meet of het model op eigen data werkt. Die uitkomst kan vrijwillig en geaggregeerd naar een gezamenlijk overzicht." width="100%">
+  <img src="assets/datastroom.svg" alt="Van data tot gesprek. Eigen gegevens (aanmelding, vooropleiding, verzuim, demografie; eerdere en huidig cohort) gaan naar de app. Die rekent met student-signal: voorbereiden, rangschikken en kwaliteit meten. Daaruit komt een ranglijst met een rapport over de kwaliteit. Een SLB'er of mentor nodigt eerst de bovenkant van de lijst uit voor een gesprek." width="100%">
 </p>
 
 In de praktijk zijn het zeven stappen, die elk jaar terugkomen:
 
-1. **Voorbereiden** binnen de instelling: draagvlak, afspraken over wie de lijst ziet en wat er met een signaal gebeurt.
-2. **Data verzamelen** uit het studentinformatiesysteem: eerdere jaren en het huidige jaar.
-3. **Analyse draaien** in de app.
-4. **Kwaliteit beoordelen** met het rapport. Is het stoplicht rood, dan gebruik je de lijst niet.
+1. **Voorbereiden** binnen de instelling: [draagvlak](http://datagedrevenonderzoekmbo.nl/wp-content/uploads/2026/03/De-Uitnodigingsregel-Draagvlak-binnen-de-instelling.pdf), [afspraken](http://datagedrevenonderzoekmbo.nl/wp-content/uploads/2026/03/De-Uitnodigingsregel-Spelregels-.pdf) over wie de lijst ziet en wat er met een signaal gebeurt.
+2. **Data verzamelen** uit het studentinformatiesysteem: eerdere jaren en het huidige jaar. Zie [Data en bronnen](docs/data-en-bronnen.md).
+3. **Analyse draaien** in de [app](https://cedanl.github.io/Uitnodigingsregel/aan-de-slag/).
+4. **Kwaliteit beoordelen** met het rapport ([resultaten lezen](https://cedanl.github.io/Uitnodigingsregel/resultaten-lezen/)). Is het stoplicht rood, dan gebruik je de lijst niet.
 5. **Ranglijst delen** met de begeleiders die de gesprekken voeren.
 6. **Gesprek voeren** met de student.
-7. **Terugkijken** aan het eind van het jaar en het nieuwe cohort toevoegen.
+7. **Terugkijken** aan het eind van het jaar met het [template evaluatie](http://datagedrevenonderzoekmbo.nl/wp-content/uploads/2026/03/Business-Case-en-pilot-evaluatie-Uitnodigingsregel.pdf) en het nieuwe cohort toevoegen.
 
 Per stap meer uitleg: [Van data tot gesprek](https://cedanl.github.io/Uitnodigingsregel/van-data-tot-gesprek/).
 
 ## Wat er is
 
-Je begint niet bij nul. Methode, materiaal voor de invoering en techniek liggen klaar.
+<p align="center">
+  <img src="assets/aanbod.svg" alt="Wat er inmiddels ligt. Een instelling die wil beginnen, begint niet bij nul. Methode: uit promotieonderzoek, herhaald bij zes instellingen op data van eerdere jaren. Pilots: praktijkpilots bij mbo-instellingen met echte data en een vaste effectmeting. Toolkit en e-learning: draagvlak, spelregels, het ethische gesprek en evaluatie, plus een e-learningmodule. Juridisch: één sectorbrede DPIA voor de Uitnodigingsregel. App: installeren met één commando, draait bij de instelling, de gegevens blijven binnen. Ondersteuning: informatiesessie, hulp bij de data en twee dagen op locatie met een data scientist. Beginnen is geen bouwtraject meer, maar installeren en draaien." width="100%">
+</p>
 
 ### Toolkit
 
-Documenten voor de invoering, gebaseerd op de ervaringen uit de pilots. Alle documenten staan in de [Toolkit Uitnodigingsregel](https://datagedrevenonderzoekmbo.nl/toolkit-uitnodigingsregel/).
+Documenten voor de invoering, gebaseerd op de ervaringen uit de pilots, en een e-learningmodule. Alle documenten staan in de [Toolkit Uitnodigingsregel](https://datagedrevenonderzoekmbo.nl/toolkit-uitnodigingsregel/).
 
 | Fase | Documenten |
 |---|---|
@@ -52,7 +52,7 @@ Documenten voor de invoering, gebaseerd op de ervaringen uit de pilots. Alle doc
 
 - **[De app](https://github.com/cedanl/Uitnodigingsregel)** maakt de ranglijst en een rapport over datakwaliteit en modelkwaliteit. Je klikt, je programmeert niet.
 - **[De benchmark](https://github.com/cedanl/uitnodigingsregel-benchmark)** laat zien of het model op de data van je instelling goed genoeg werkt, en welke gegevens daaraan bijdragen. Je kunt de uitkomst delen en vergelijken met andere instellingen.
-- **[student-signal](https://github.com/cedanl/student-signal)** is de rekenkern, voor wie zelf wil bouwen of onderzoek wil doen.
+- **[student-signal](https://github.com/cedanl/student-signal)** is de rekenkern als library, voor ontwikkelaars die in eigen code willen rekenen.
 
 De app en de benchmark rekenen allebei met student-signal. Een uitkomst in de benchmark is dus te vergelijken met wat de app laat zien.
 
@@ -76,7 +76,7 @@ Kies de situatie die bij je past.
 2. **We willen weten of het op onze data werkt.** Zet de gegevens klaar met de [variabelenlijst](https://github.com/cedanl/Uitnodigingsregel/blob/main/docs/Variabelen_Definities_v4.xlsx) en de [SQL-voorbeelden](https://github.com/cedanl/Uitnodigingsregel_datapreparatie) en draai de [benchmark](https://github.com/cedanl/uitnodigingsregel-benchmark). Liever samen? Vraag de twee dagen op locatie aan.
 3. **We starten een pilot.** Werk de toolkit door voor de voorbereiding, installeer de [app](https://cedanl.github.io/Uitnodigingsregel/aan-de-slag/) en gebruik de handleidingen voor teams.
 4. **We willen evalueren of opschalen.** Gebruik het [template evaluatie en business case](http://datagedrevenonderzoekmbo.nl/wp-content/uploads/2026/03/Business-Case-en-pilot-evaluatie-Uitnodigingsregel.pdf) en de [checklist opschalen](http://datagedrevenonderzoekmbo.nl/wp-content/uploads/2026/03/De-Uitnodigingsregel-Checklist-opschalen-na-de-pilot.pdf), en deel je uitkomst in het [gezamenlijke overzicht](https://cedanl.github.io/uitnodigingsregel-benchmark/).
-5. **We willen zelf bouwen of onderzoek doen.** Begin met [student-signal](https://cedanl.github.io/student-signal/).
+5. **We willen zelf bouwen of onderzoek doen.** Begin met de [broncode van de app](https://github.com/cedanl/Uitnodigingsregel). Wil je in eigen code rekenen, gebruik dan [student-signal](https://cedanl.github.io/student-signal/), de library waarmee de app rekent.
 
 ## Overzicht van de tools
 
@@ -98,7 +98,7 @@ Kies de situatie die bij je past.
 </tr>
 <tr>
 <td valign="top"><a href="https://github.com/cedanl/student-signal">student-signal</a></td>
-<td valign="top">Ontwikkelaars en onderzoekers.</td>
+<td valign="top">Ontwikkelaars die in eigen code rekenen.</td>
 <td valign="top">Een tabel met studentgegevens, in eigen code.</td>
 <td valign="top">Voorbereide data, ranglijst en kwaliteitsmaten.</td>
 <td valign="top"><a href="https://cedanl.github.io/student-signal/">Documentatie</a></td>
@@ -131,9 +131,9 @@ De tools gebruiken alleen gegevens van de instelling zelf, uit het studentinform
 
 ## Waar we heen willen
 
-1. Volgende pilots begeleiden en het effect op uitval meten.
-2. Het model verbeteren met gegevens die instellingen nu nog niet gebruiken.
-3. De methode verkennen voor hbo en wo.
+1. **Mbo:** van pilots naar een vast programma, met vijf extra instellingen en experimenten met generieke data.
+2. **Hbo en wo:** de methode verkennen samen met de Startthermometer, op generieke data uit 1CijferHO.
+3. **Online demo:** begeleiders kunnen de Uitnodigingsregel leren kennen, ook als hun instelling geen pilot draait.
 
 Uitgewerkt in [Waar we heen willen](docs/richting.md).
 
