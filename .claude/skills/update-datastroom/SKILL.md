@@ -5,7 +5,7 @@ description: Werk de twee plaatjes van deze projectrepo bij, de datastroom (asse
 
 # Plaatjes bijwerken
 
-- **Datastroom** (`genereer_datastroom.py` → `assets/datastroom.svg`): één rij van links naar rechts: eigen gegevens, rekenen in de app, ranglijst, gesprek. Alleen de Uitnodigingsregel zelf; benchmark en toolkit staan in de README.
+- **Datastroom** (`genereer_datastroom.py` → `assets/datastroom.svg`): één rij van links naar rechts: eigen gegevens, signaleren, ranglijst, gesprek. Alleen de Uitnodigingsregel zelf; benchmark en toolkit staan in de README.
 - **Wat er inmiddels ligt** (`genereer_aanbod.py` → `assets/aanbod.svg`): zes kaarten die laten zien dat alles klaarligt (methode, pilots, toolkit, juridisch, app, ondersteuning), met een slotregel.
 
 Pas de SVG's nooit met de hand aan.

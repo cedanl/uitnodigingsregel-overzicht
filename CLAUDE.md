@@ -6,7 +6,8 @@ Projectrepo van CEDA/Npuls. Bevat alleen documentatie: alles over de Uitnodiging
 
 - `README.md`: dé pagina over de Uitnodigingsregel, voor instellingen, collega's en partners. Primaire interface.
 - `docs/data-en-bronnen.md`: welke gegevens nodig zijn, hoe je ze klaarzet en waar je meer leest over de methode.
-- `docs/richting.md`: wat de pilots leerden en drie routes (mbo, hbo en wo, online demo) als leesbaar verhaal. In de README alleen de drie routes in één regel elk.
+- `docs/hoe-goed-werkt-het.md`: kwaliteit meten, wat de pilots lieten zien en instellingen vergelijken. Niet in de README.
+- `docs/richting.md`: drie routes (mbo, hbo en wo, online demo) als leesbaar verhaal. In de README alleen de drie routes in één regel elk.
 - `assets/logo-uitnodigingsregel.png`: het logo. Bron: `references/logo-uitnodigingsregel.png` in `cedanl/Uitnodigingsregel`.
 - `assets/datastroom.svg`: de datastroom van gegevens tot gesprek, op één rij.
 - `assets/aanbod.svg`: het overzicht "Wat er inmiddels ligt" met zes kaarten.

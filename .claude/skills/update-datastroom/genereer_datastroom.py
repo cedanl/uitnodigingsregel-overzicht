@@ -34,12 +34,7 @@ VAKKEN = {
     "rekenen": {
         "kolom": 1,
         "soort": "bewerking",
-        "regels": [
-            "Rekenen in de app",
-            "voorbereiden, rangschikken,",
-            "kwaliteit meten",
-            "met student-signal",
-        ],
+        "regels": ["Signaleren", "leren van eerdere jaren,", "risico inschatten", "in de app"],
     },
     "ranglijst": {
         "kolom": 2,

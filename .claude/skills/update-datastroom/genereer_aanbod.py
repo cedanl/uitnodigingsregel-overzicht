@@ -23,11 +23,7 @@ KAARTEN = [
     (
         "Methode",
         "blauw",
-        [
-            "Uit promotieonderzoek. Herhaald",
-            "bij zes instellingen op data",
-            "van eerdere jaren.",
-        ],
+        ["Uit promotieonderzoek.", "Wetenschappelijk gerepliceerd bij", "zes instellingen en gepubliceerd."],
     ),
     (
         "Pilots",

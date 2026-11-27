@@ -1,6 +1,4 @@
-<img src="assets/logo-uitnodigingsregel.png" alt="Logo van de Uitnodigingsregel: een envelop met een uitnodiging naast een grafiek met een signaal" width="80" align="right">
-
-# De Uitnodigingsregel
+# <img src="assets/logo-uitnodigingsregel.png" alt="Logo van de Uitnodigingsregel: een envelop met een uitnodiging naast een grafiek met een signaal" height="40" align="right"> De Uitnodigingsregel
 
 *Van data tot gesprek*
 
@@ -12,12 +10,12 @@ De Uitnodigingsregel maakt een ranglijst van studenten, op volgorde van het risi
 
 SLB'ers en mentoren nodigen studenten uit vanaf de bovenkant van de lijst. Vandaar de naam. De lijst is een signaal, geen oordeel: de begeleider beslist met wie en waarover het gesprek gaat.
 
-De methode komt uit het [promotieonderzoek van Irene Eegdeman](https://research.vu.nl/en/publications/enhancing-study-success-in-dutch-vocational-education) (ROC TOP). Zes instellingen hebben haar herhaald op eigen data, daarna volgden [praktijkpilots](https://datagedrevenonderzoekmbo.nl/themas/uitnodigingsregel/evaluatie-van-de-eerste-praktijkpilot-voor-de-uitnodigingsregel/) bij mbo-instellingen. Nu is er een [app](https://github.com/cedanl/Uitnodigingsregel) die een instelling zelf installeert en draait.
+De methode komt uit het [promotieonderzoek van Irene Eegdeman](https://research.vu.nl/en/publications/enhancing-study-success-in-dutch-vocational-education) (ROC TOP). Bij zes instellingen is de methode wetenschappelijk gerepliceerd op data van eerdere jaren en gepubliceerd. Daarna volgden [praktijkpilots](https://datagedrevenonderzoekmbo.nl/themas/uitnodigingsregel/evaluatie-van-de-eerste-praktijkpilot-voor-de-uitnodigingsregel/) bij mbo-instellingen. Nu is er een [app](https://github.com/cedanl/Uitnodigingsregel) die een instelling zelf installeert en draait.
 
 ## Van data tot gesprek
 
 <p align="center">
-  <img src="assets/datastroom.svg" alt="Van data tot gesprek. Eigen gegevens (aanmelding, vooropleiding, verzuim, demografie; eerdere en huidig cohort) gaan naar de app. Die rekent met student-signal: voorbereiden, rangschikken en kwaliteit meten. Daaruit komt een ranglijst met een rapport over de kwaliteit. Een SLB'er of mentor nodigt eerst de bovenkant van de lijst uit voor een gesprek." width="100%">
+  <img src="assets/datastroom.svg" alt="Van data tot gesprek. Eigen gegevens (aanmelding, vooropleiding, verzuim, demografie; eerdere en huidig cohort) gaan naar de app, die leert van eerdere jaren en het risico inschat. Daaruit komt een ranglijst met een rapport over de kwaliteit. Een SLB'er of mentor nodigt eerst de bovenkant van de lijst uit voor een gesprek." width="100%">
 </p>
 
 In de praktijk zijn het zeven stappen, die elk jaar terugkomen:
@@ -25,7 +23,7 @@ In de praktijk zijn het zeven stappen, die elk jaar terugkomen:
 1. **Voorbereiden** binnen de instelling: [draagvlak](http://datagedrevenonderzoekmbo.nl/wp-content/uploads/2026/03/De-Uitnodigingsregel-Draagvlak-binnen-de-instelling.pdf), [afspraken](http://datagedrevenonderzoekmbo.nl/wp-content/uploads/2026/03/De-Uitnodigingsregel-Spelregels-.pdf) over wie de lijst ziet en wat er met een signaal gebeurt.
 2. **Data verzamelen** uit het studentinformatiesysteem: eerdere jaren en het huidige jaar. Zie [Data en bronnen](docs/data-en-bronnen.md).
 3. **Analyse draaien** in de [app](https://cedanl.github.io/Uitnodigingsregel/aan-de-slag/).
-4. **Kwaliteit beoordelen** met het rapport ([resultaten lezen](https://cedanl.github.io/Uitnodigingsregel/resultaten-lezen/)). Is het stoplicht rood, dan gebruik je de lijst niet.
+4. **Kwaliteit bekijken** in het rapport. Een stoplicht laat zien hoe goed het model op de eigen data voorspelt. Dat helpt bij de keuze hoe je de lijst inzet ([resultaten lezen](https://cedanl.github.io/Uitnodigingsregel/resultaten-lezen/)).
 5. **Ranglijst delen** met de begeleiders die de gesprekken voeren.
 6. **Gesprek voeren** met de student.
 7. **Terugkijken** aan het eind van het jaar met het [template evaluatie](http://datagedrevenonderzoekmbo.nl/wp-content/uploads/2026/03/Business-Case-en-pilot-evaluatie-Uitnodigingsregel.pdf) en het nieuwe cohort toevoegen.
@@ -35,7 +33,7 @@ Per stap meer uitleg: [Van data tot gesprek](https://cedanl.github.io/Uitnodigin
 ## Wat er is
 
 <p align="center">
-  <img src="assets/aanbod.svg" alt="Wat er inmiddels ligt. Een instelling die wil beginnen, begint niet bij nul. Methode: uit promotieonderzoek, herhaald bij zes instellingen op data van eerdere jaren. Pilots: praktijkpilots bij mbo-instellingen met echte data en een vaste effectmeting. Toolkit en e-learning: draagvlak, spelregels, het ethische gesprek en evaluatie, plus een e-learningmodule. Juridisch: één sectorbrede DPIA voor de Uitnodigingsregel. App: installeren met één commando, draait bij de instelling, de gegevens blijven binnen. Ondersteuning: informatiesessie, hulp bij de data en twee dagen op locatie met een data scientist. Beginnen is geen bouwtraject meer, maar installeren en draaien." width="100%">
+  <img src="assets/aanbod.svg" alt="Wat er inmiddels ligt. Een instelling die wil beginnen, begint niet bij nul. Methode: uit promotieonderzoek, wetenschappelijk gerepliceerd bij zes instellingen en gepubliceerd. Pilots: praktijkpilots bij mbo-instellingen met echte data en een vaste effectmeting. Toolkit en e-learning: draagvlak, spelregels, het ethische gesprek en evaluatie, plus een e-learningmodule. Juridisch: één sectorbrede DPIA voor de Uitnodigingsregel. App: installeren met één commando, draait bij de instelling, de gegevens blijven binnen. Ondersteuning: informatiesessie, hulp bij de data en twee dagen op locatie met een data scientist. Beginnen is geen bouwtraject meer, maar installeren en draaien." width="100%">
 </p>
 
 ### Toolkit
@@ -111,29 +109,15 @@ Kies de situatie die bij je past.
 - Delen kan alleen met de benchmark, en alleen als de instelling dat wil. Wat gedeeld wordt, zijn uitkomsten per instelling, geen gegevens van studenten.
 - Elke tool heeft demodata, zodat je hem kunt bekijken zonder echte gegevens.
 
-## Hoe goed werkt het
-
-**Kwaliteit meten.** De modellen worden getoetst op studenten die ze niet eerder zagen. Twee vragen tellen: hoeveel studenten in de bovenste 20% van de lijst vallen echt uit, en hoeveel van alle uitvallers staan in die 20%. Een stoplicht vat dat samen: groen is betrouwbaar, geel vraagt voorzichtigheid, rood is niet bruikbaar. Uitleg: [Resultaten lezen](https://cedanl.github.io/Uitnodigingsregel/resultaten-lezen/).
-
-**Wat de pilots lieten zien.** In 2024/2025 en 2025/2026 werkten opleidingen bij meerdere mbo-instellingen met de lijsten:
-
-- Begeleiders herkennen veel in de lijsten en gebruiken ze om gesprekken voorrang te geven.
-- Model en begeleider samen werken beter dan elk van beide apart.
-- Het effect hangt af van lijsten die op tijd klaar zijn, tijd voor gesprekken en inbedding in bestaande overleggen.
-
-Meer in de [evaluatie van de praktijkpilots](https://datagedrevenonderzoekmbo.nl/themas/uitnodigingsregel/evaluatie-van-de-eerste-praktijkpilot-voor-de-uitnodigingsregel/).
-
-**Instellingen vergelijken.** Gedeelde uitkomsten van de benchmark staan in het [gezamenlijke overzicht](https://cedanl.github.io/uitnodigingsregel-benchmark/).
-
 ## Data en bronnen
 
 De tools gebruiken alleen gegevens van de instelling zelf, uit het studentinformatiesysteem. Welke gegevens dat zijn, hoe je ze klaarzet en waar je meer leest over de methode: zie [Data en bronnen](docs/data-en-bronnen.md).
 
 ## Waar we heen willen
 
-1. **Mbo:** van pilots naar een vast programma, met vijf extra instellingen en experimenten met generieke data.
-2. **Hbo en wo:** de methode verkennen samen met de Startthermometer, op generieke data uit 1CijferHO.
-3. **Online demo:** begeleiders kunnen de Uitnodigingsregel leren kennen, ook als hun instelling geen pilot draait.
+1. **Mbo:** van pilots naar een vast programma, met extra instellingen.
+2. **Hbo en wo:** de methode verkennen.
+3. **Online demo:** de Uitnodigingsregel leren kennen zonder iets te installeren.
 
 Uitgewerkt in [Waar we heen willen](docs/richting.md).
 
@@ -146,6 +130,7 @@ Uitgewerkt in [Waar we heen willen](docs/richting.md).
 
 ## Documentatie
 
+- Hoe goed werkt het: [kwaliteit meten en wat de pilots lieten zien](docs/hoe-goed-werkt-het.md)
 - App: [cedanl.github.io/Uitnodigingsregel](https://cedanl.github.io/Uitnodigingsregel/)
 - student-signal: [cedanl.github.io/student-signal](https://cedanl.github.io/student-signal/)
 - Benchmark: [README](https://github.com/cedanl/uitnodigingsregel-benchmark#readme) en [gezamenlijk overzicht](https://cedanl.github.io/uitnodigingsregel-benchmark/)
